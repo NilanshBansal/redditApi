@@ -1,0 +1,11 @@
+USAGE :-
+
+python3 reddit.py -h <SHOWS HELP MENU>
+
+python reddit.py -s "bitcoin" -q "bitcoin fraud" -l 25
+
+-s --> subreddit
+
+-q --> query parameter
+
+-l ---> no of results to extract max 1000

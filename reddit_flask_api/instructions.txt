@@ -1,0 +1,11 @@
+USAGE:-
+
+python app.py ---> flask server will start at localhost:5000 
+
+
+http://127.0.0.1:5000/?q=bitcoin%20price&s=ethtrader&l=25
+http://localhost:5000/?q=fraud%20ico&r=bitcoin&l=50
+
+q --> query 
+s ---> subreddit
+l ----> limit of results 
